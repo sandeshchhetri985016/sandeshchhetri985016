@@ -20,6 +20,6 @@ I'm a **software engineering student** and aspiring **Backend Java Developer** w
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/sandeshchhetri](https://linkedin.com/in/chhetrisandesh)
 - GitHub: [github.com/sandeshchhetri985016](https://github.com/sandeshchhetri985016)
-- Email: sandeshjungchhetri22@example.com
+- Email: sandeshjungchhetri22@gmail.com
 
 Let's connect and build something amazing! 🚀
