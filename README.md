@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @sandeshchhetri
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Java devleopment
-- 💞️ I’m looking to collaborate on Java projects 
-- 📫 How to reach me: you can reach me via my email
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Your div is not centred
+# Hi there, I'm Sandesh Chhetri! 👋
 
-<!---
-sandeshchhetri985016/sandeshchhetri985016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a **software engineering student** and aspiring **Backend Java Developer** with a strong passion for **Java, Spring Boot, and cloud computing**. Currently, I'm focusing on mastering **Java for backend development** along with **Spring Boot** to build scalable and efficient web applications. I have experience with **web technologies** like HTML, CSS, and JavaScript but my primary interest lies in backend development.
+
+- 🎓 **College Student in Sydney**
+- 🌱 Currently learning **Spring Boot, System Design & AWS**
+- 💻 Working on **BookExchangeCentral** (Backend Development with Java)
+- 👨‍💻 Open to **collaborations & internships** in Java backend development
+
+## 🛠 Tech Stack
+- **Languages:** Java, Python
+- **Frameworks:** Spring Boot
+- **Databases:** MySQL, SQLite
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Git & GitHub
+
+## 🔥 GitHub Stats
+![Sandesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeshchhetri985016&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/sandeshchhetri](https://linkedin.com/in/chhetrisandesh)
+- GitHub: [github.com/sandeshchhetri985016](https://github.com/sandeshchhetri985016)
+- Email: sandeshjungchhetri22@example.com
+
+Let's connect and build something amazing! 🚀
