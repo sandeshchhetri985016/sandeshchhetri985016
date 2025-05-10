@@ -5,13 +5,13 @@ I'm a **software engineering student** and aspiring **Backend Java Developer** w
 
 - 🎓 **College Student in Sydney**
 - 🌱 Currently learning **Spring Boot, System Design & AWS**
-- 💻 Working on **BookExchangeCentral** (Backend Development with Java)
+- 💻 Worked on **BookExchangeCentral** (Developed using technologies, HTML, CSS, JS, PHP, and MySQL)
 - 👨‍💻 Open to **collaborations & internships** in Java backend development
 
 ## 🛠 Tech Stack
 - **Languages:** Java, Python
 - **Frameworks:** Spring Boot
-- **Databases:** MySQL, SQLite
+- **Databases:** MySQL, MongoDB
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda), Git & GitHub
 
 ## 🔥 GitHub Stats
